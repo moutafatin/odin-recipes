@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+body {
+  background-color: #eaefef;
+}
+
+h1 {
+  font-size: 48px;
+  color: #333446;
+  padding: 10px;
+}
+
+.recipe-list {
+  padding: 10px;
+}
+
+.recipe-list li {
+  margin: 8px;
+}
+
+.recipe-list a {
+  font-size: 20px;
+  color: #7f8caa;
+}
+
+.recipe-list a:hover {
+  color: #7f8caa80;
+}
